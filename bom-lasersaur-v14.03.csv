@@ -1,0 +1,440 @@
+#   item   supplier   order#   currency price [url]   [currency price [url]]   ...
+#   num   subsystem   use
+
+
+!supplierdef   Misumi   EUR http://uk.misumi-ec.com/eu/EcSearchView.html?kw=%%   USD http://us.misumi-ec.com/us/EcSearchView.html?kw=%%
+!supplierdef   ThorLabs   EUR http://www.thorlabs.com/search/thorsearch.cfm?search=%%   USD http://www.thorlabs.com/search/thorsearch.cfm?search=%%
+!supplierdef   Mouser   EUR http://eu.mouser.com/Search/Refine.aspx?Keyword=%%   USD http://mouser.com/Search/Refine.aspx?Keyword=%%
+
+
+### NortdLabs
+Cable Ties   NortdLabs   la-zip   USD 7 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=71&currency=USD   EUR 6 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=71&currency=EUR
+   4/24   y-drive   4x belt to cart
+   4/24   x-drive   4x belt to cart
+   16/24   optics-laser   16x cable and hose to laser tube
+Door Sensor Pack   NortdLabs   la-dsp   USD 58 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=66&currency=USD   EUR 50 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=66&currency=EUR
+   1   frame-door   2x door sensors, 2x door sensor magnets
+DriveBoard DIY Pack   NortdLabs   la-dbdy   USD 237 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=63&currency=USD   EUR 206 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=63&currency=EUR
+   1   electronics   controller board
+DriveBoard Wiring Pack   NortdLabs   la-dwp   USD 94 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=70&currency=USD   EUR 82 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=70&currency=EUR
+   1   electronics   DriveBoard wiring, laser, chiller, power, data
+E-Valve Assembly   NortdLabs   la-evas   USD 58 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=73&currency=USD   EUR 50 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=73&currency=EUR
+   1   air-assist   air assist flow control
+E-Stop Assembly   NortdLabs   la-estp   USD 39 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=68&currency=USD   EUR 34 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=68&currency=EUR
+   1   electronics   DriveBoard emergency stop button
+GT Timing Belt Pack   NortdLabs   la-gtb   USD 131 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=58&currency=USD   EUR 95 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=58&currency=EUR
+   1/3   x-drive   1x 3060mm drive belt
+   2/3   y-drive   2x 1840mm drive belt
+LasersaurBBB (BeagleBoneBlack, Wifi, configured)   NortdLabs   la-bbb   USD 109.0 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=53&currency=USD   EUR 95.0 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=53&currency=EUR
+   1   electronics   controller board
+Limit Sensor Pack   NortdLabs   la-lsp   USD 94 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=67&currency=USD   EUR 82 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=67&currency=EUR
+   2/8   y-cart   2x limit sensor magnets
+   2/8   y-drive   2x limit sensors
+   2/8   x-cart   2x limit sensor magnets
+   2/8   x-drive   2x limit sensors
+MechParts   NortdLabs   la-mpk   USD 261 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=50&currency=USD   EUR 227.0 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=50&currency=EUR
+   2/21   frame-door   2x door sensor mounts
+   7/21   y-drive   5x shaft mounts, 1x limit sensor mount, 1x motor mount
+   3/21   x-cart   2x roller/optics mounts, 1x cable carrier mount
+   5/21   x-drive   3x motor/gear mount, 2x limit sensor mounts
+   4/21   optics-laser   4x laser tube mounts
+Mirror Mount Pack   NortdLabs   la-mmp   USD 182 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=64&currency=USD   EUR 158 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=64&currency=EUR
+   1   optics-laser   3x flying optics, 1, 2, 3
+Panel Pack   NortdLabs   la-mpan   USD 102 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=74&currency=USD   EUR 89 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=74&currency=EUR
+   3/7   frame-bottom   outer separation panels, entry panel
+   2/7   frame-top   outer separation panels
+   2/7   electronics   DriveBoard and 24V/5V PSU mount, C14 power socket mount
+Nozzle Assembly   NortdLabs   la-nozb   USD 135.0 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=59&currency=USD   EUR 118.0 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=59&currency=EUR
+   1   optics-laser   laser head
+Optics Accessory Pack   NortdLabs   la-oacc   USD 218 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=65&currency=USD   EUR 189 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=65&currency=EUR
+   1   optics-laser   extra
+Optics Pack   NortdLabs   la-lmp   USD 315.0 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=56&currency=USD   EUR 274.0 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=56&currency=EUR
+   1   optics-laser   laser beam delivery
+Power Supply Pack   NortdLabs   la-psu   USD 66 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=69&currency=USD   EUR 58 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=69&currency=EUR
+   1   electronics   DriveBoard power, 5V and 24V
+Rubber Tape   NortdLabs   la-rubt   USD 8 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=72&currency=USD   EUR 8 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=72&currency=EUR
+   1   optics-laser   between laser tube and mounts
+Stepper Driver Pack   NortdLabs   la-stpd   USD 350 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=60&currency=USD   EUR 300 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=60&currency=EUR
+   2   electronics   x/y-drive
+Stepper X-Drive   NortdLabs   la-stpx   USD 70 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=61&currency=USD   EUR 60 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=61&currency=EUR
+   1   x-drive   x-drive
+Stepper Y-Drive   NortdLabs   la-stpy   USD 98 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=62&currency=USD   EUR 84 http://store.lasersaur.com/index.php?route=product/product&path=59&product_id=62&currency=EUR
+   1   y-drive   y-drive
+
+
+
+### Misumi
+aluminum bracket extrusion   Misumi   HFLBS5-1410   USD 6.0   EUR 6.0
+   1   x-drive   cable carrier base
+angle bracket, single   Misumi   HBLFSN5   USD 0.75   EUR 0.63
+   27   frame-bottom   11x base frame, 16x columns
+   4   frame-top   frame
+   8   frame-door   door connections
+   1   optics-laser   mirror2
+   10   extra   extra
+angle bracket, single, black   Misumi   HBLFSNB5   USD 1.98   EUR 1.32
+   6   frame-bottom   6x bottom cross
+   12   frame-table   table frame
+   2   extra   extra
+angle bracket, double   Misumi   HBLFSD5   USD 2.3   EUR 1.95
+   17   frame-bottom   frame
+   10   frame-top   frame
+   4   frame-door   door connections
+   1   optics-laser   mirror1
+   6   extra   extra
+angle bracket, double, light   Misumi   HBLSD5   USD 1.32   EUR 0.88
+   6   y-drive   5x shaft mount, 1x limit sensor mount
+   2   extra   extra
+angle bracket, double, heavy   Misumi   HBLFSDW5   USD 3.15   EUR 2.1
+   4   frame-gantry   gantry frame corners
+   1   y-drive   motor mount
+   2   optics-laser   laser mounts
+ball bearing 5x19x6mm   Misumi   B635ZZ   USD 5.18   EUR 1.4
+   4   y-drive   idler
+   2   x-drive   idler
+ball bearing 6x19x6mm   Misumi   B626ZZ   USD 2.53   EUR 1.7
+   6   y-drive   2x gear assembly, 4x pulley assembly
+   2   x-drive   2x gear assembly
+   1   extra   extra
+ball bearing 5x14x5mm   Misumi   B605ZZ   USD 2.53   EUR 1.7
+   8   y-cart   roller
+   6   x-cart   roller
+   8   y-drive   spanner idler
+   4   x-drive   4x spanner idler
+   2   extra   extra
+cable carrier, 20 links   Misumi   MHPKS101-19-20-S   USD 19.88   EUR 19.30
+   2   x-drive   gas assist
+cable carrier, 23 links   Misumi   MHPUS102-19-23-S   USD 29.57   EUR 29.0
+   1   y-drive   life line
+gas spring   Misumi   FGSS22150B   USD 23.88   EUR 19
+   2   frame-door   door
+hinges   Misumi   HHPSN5   USD 3.8   EUR 3.6
+   3   frame-door   door
+metal sheet 1166x356x0.8mm   Misumi   PDSPHC4H-1166-356-0.8-F1110-G340-N5-UN10-XC8-YC8   USD 44   EUR 41
+   1   frame-panels   left side
+metal sheet 1166x847x0.8mm   Misumi   PDSPHC4H-1166-847-0.8-F1150-G790-N5-UN10-XC8-YC9   USD 58   EUR 54
+   2   frame-panels   bottom
+metal sheet 247x216x0.8mm   Misumi   PDSPHC4H-247-216-0.8-F190-G200-N5-UN10-XC9-YC8   USD 25   EUR 24
+   1   frame-panels   rear right
+metal sheet 847x213x0.8mm   Misumi   PDSPHC4H-847-213-0.8-F790-G180-N5-UN10-XC48-YC8   USD 35   EUR 33
+   2   frame-panels   front
+metal sheet 847x268x0.8mm   Misumi   PDSPHC4H-847-268-0.8-F790-G250-N5-UN10-XC48-YC8   USD 35   EUR 33
+   2   frame-panels   rear top
+metal sheet 847x356x0.8mm   Misumi   PDSPHC4H-847-356-0.8-F790-G340-N5-UN10-XC48-YC8   USD 38   EUR 36
+   2   frame-panels   rear
+metal sheet 917x356x0.8mm   Misumi   PDSPHC4H-917-356-0.8-F900-G340-N5-UN10-XC8-YC8   USD 40   EUR 38
+   1   frame-panels   right side
+nut DIN934-like, M3   Misumi   LBNR3   USD 0.08   EUR 0.28
+   4   frame-door   4x door switch
+   2   x-drive   2x cable carrier
+   4   y-drive   4x limit sensor
+   6   electronics   2x power entry module, 4x driveboard
+   8   extra    extra
+nut DIN985-like, lock, M4   Misumi   UNUTZ4   USD 0.9   EUR 0.8
+   4   y-drive   4x bearing clamps
+   4   optics-laser   4x laser tube mount
+   2   extra   extra
+nut DIN985-like, lock, M5, 100 pack   Misumi   PACK-UNUT5   USD 15   EUR 15
+   8/100   y-cart   8x roller shaft
+   24/100   y-drive   4x motor mount, 14x shaft mount, 2x limit sensor, 4x belt spanner
+   6/100   x-cart   6x roller shaft
+   4/100   x-drive   2x motor mount, 2x spanner idler
+   10/100   optics-laser   8x laser mount, 2x lens tube clamp to mount plate
+   48/100   extra   extra
+panel rubber seal 12m   Misumi   HSCP3H-B-12   USD 22   EUR 17
+   6/12   frame-bottom   seal for separation panels
+   6/12   frame-top   seal for entry panel
+planar bracket, double   Misumi   SHPTSD5   USD 1.75   EUR 1.2
+   4   frame-gantry   gantry frame y-rails
+   6   frame-top   middle column, separation
+plastic handles   Misumi   UPCN19-B-36   USD 5.8   EUR 4.8
+   2   door-panels   door
+polycarbonate sheet 600x130x3mm   Misumi   PCTBA-600-130-3   USD 21   EUR 18
+   2   frame-bottom   compartment separation, bottom
+polycarbonate sheet 600x110x3mm   Misumi   PCTBA-600-110-3   USD 27   EUR 22
+   2   frame-top   compartment separation, top
+polycarbonate sheet 807x60x3mm   Misumi   PCTBA-807-60-3   USD 14   EUR 11
+   2   frame-door   door slit cover
+polycarbonate sheet 847x143x3mm   Misumi   PCTBA-847-143-3   USD 29   EUR 24
+   2   door-panels   door cover front
+polycarbonate sheet 892x847x3mm   Misumi   PCTBA-892-847-3   USD 135   EUR 100
+   2   door-panels   door cover top
+drive shaft, stepped   Misumi   SFAJ12-26-F24-P6-T6   USD 12   EUR 9
+   1   x-drive   gear assembly
+drive shaft, stepped   Misumi   SFAJ12-40-F16-P6-T16   USD 12   EUR 9
+   1   y-drive   gear assembly
+drive shaft, stepped   Misumi   SFAJ12-620-F18-P6-T8   USD 55   EUR 47
+   2   y-drive   gear to final pulley 
+drive shaft, stepped   Misumi   SFAJ12-40-F16-P6-T24   USD 12   EUR 9
+   2   y-drive   final pulley assembly
+screw DIN912-like, M3x10   Misumi   CB3-10   USD 0.13   EUR 0.13
+   4   frame-door   4x door switch
+   4   y-cart   4x limit sensor magnets
+   4   x-cart   4x limit sensor magnets
+   10   x-drive   4x motor mount, 2x cable carrier, 4x limit sensor
+   4   electronics   4x power entry module
+   6   extra    extra
+screw DIN912-like, M3x16   Misumi   CB3-16   USD 0.13   EUR 0.13
+   4   frame-door   door sensor
+   4   y-drive   limit sensors
+   2   electronics   2x power entry module
+   6   extra    extra
+screw DIN912-like, M3x25   Misumi   CB3-25   USD 0.13   EUR 0.13
+   1   air-assist   e-valve mount
+   4   extra    extra
+screw ISO7380-like, button, M3x06   Misumi   BCB3-6   USD 0.11   EUR 0.11
+   2   x-drive   2x gear assembly top bearing
+   4   electronics   4x psu mount
+   12   extra    extra
+screw DIN912-like, M4x16   Misumi   CB4-16   USD 0.13   EUR 0.10
+   4   y-drive   4x bearing clamps
+   4   optics-laser   4x laser tube mount
+   4   extra   extra
+screw DIN912-like, M5x08   Misumi   CB5-8   USD 0.13   EUR 0.10
+   16   frame-gantry   16x planar bracket
+   24   frame-top   24x planar bracket
+   8   frame-door   8x door slit cover
+   12   y-drive   10x shaft mount, 2x limit sensor
+   4   optics-laser   4x laser psu mount
+   4   electronics   panel mount
+   38   door-panels   22x door top, 16x door front
+   40   extra    extra
+screw DIN912-like, M5x10   Misumi   CB5-10   USD 0.10   EUR 0.08
+   32   frame-gantry   32x angle brackets
+   134   frame-bottom   66x bracket single, 66x bracket double
+   48   frame-top   frame connections
+   32   frame-door   32x angel brackets
+   24   frame-table   angle brackets
+   4   y-drive   4x motor mount
+   14   optics-laser   4x mirror1, 2x mirror2, 8x laser mount
+   80   extra    extra
+screw DIN912-like, M5x12   Misumi   CB5-12   USD 0.12   EUR 0.12
+   4   frame-door   4x door switch
+   2   x-cart   2x cable carrier mount plate
+   8   x-drive   4x limit sensor mount, 4x gear assembly
+   4   door-panels   4x door handle
+   12   extra    extra
+screw DIN912-like, M5x16   Misumi   CB5-16   USD 0.13   EUR 0.13
+   5   x-cart   4x mount plates to extrusion end, 1x bottom roller shaft
+   12   y-drive   10x shaft mount, 2x limit sensor mount
+   1   x-drive   motor mount
+   10   extra    extra
+screw DIN912-like, M5x20   Misumi   CB5-20   USD 0.13   EUR 0.13
+   4   frame-door   gas spring mount
+   4   y-cart   4x cart-bar
+   8   y-drive   motor mount
+   2   x-drive   motor mount
+   12   optics-laser   8x laser mount, 2x mirror1, 2x lens tube clamp to mount plate
+   8   extra    extra
+screw DIN912-like, adhesive, M5x25   Misumi   SUSLB5-25   USD 0.5   EUR 0.4
+   4   y-cart   4x cart bar
+   2   y-drive   2x idler shaft
+   2   x-cart   2x cart bar
+   1   x-drive   1x idler shaft
+   2   extra   extra
+screw ISO7380-like, button, M5x06   Misumi   BCB5-6   USD 0.11   EUR 0.11
+   100   frame-panels   100x metal sheets
+   2   y-drive   cable carrier
+   60   extra    extra
+screw DIN7991-like, sunk, M5x08   Misumi   SFB5-8   USD 0.66   EUR 1.1
+   12   frame-door   door hinges
+screw DIN7991-like, sunk, M5x12   Misumi   SFB5-12   USD 1.3   EUR 1.3
+   5   x-drive   cable carrier base
+screw DIN7984-like, low, M5x16   Misumi   CBSS5-16   USD 0.5   EUR 0.5
+   4   y-cart   belt attachment
+   2   x-cart   belt attachment
+screw DIN7984-like, low, M5x30   Misumi   CBSST5-30   USD 0.6   EUR 0.54
+   5   x-cart   5x roller shaft
+   8   y-cart   8x roller shaft
+   4   y-drive   spanner idler
+   2   x-drive   spanner idler
+   6   extra   extra
+shaft coupling, 6 to 6mm   Misumi   MCKSC20-6-6   USD 29   EUR 23.4
+   4   y-drive   drive shaft
+slide washer   Misumi   SWSPT25-10-1.0   USD 3.72   EUR 4.60
+   2   y-drive   idler
+   1   x-drive   idler
+timing belt GT 3M, 9mm, 109 teeth   Misumi   GBN3273GT-90   USD 8   EUR 7
+   1   y-drive   gear assembly
+timing belt GT 3M, 9mm, 65 teeth   Misumi   GBN1953GT-90   USD 8   EUR 7
+   1   x-drive   gear assembly
+timing pulley GT 3M, 18 teeth, bore 5mm   Misumi   GPA18GT3090-A-P5   USD 18   EUR 16
+   1   x-drive   motor pulley
+timing pulley GT 3M, 48 teeth, bore 12mm   Misumi   GPA48GT3090-A-P12   USD 30   EUR 25 
+   1   x-drive   middle gear pulley
+timing pulley GT 3M, 22 teeth, bore 6.35mm   Misumi   GPA22GT3090-A-P6.35   USD 18   EUR 16
+   1   y-drive   motor pulley
+timing pulley GT 3M, 60 teeth, bore 12mm   Misumi   GPA60GT3090-A-P12-FC59   USD 40   EUR 35 
+   1   y-drive   middle gear pulley
+timing pulley GT 3M, 20 teeth, bore 6mm   Misumi   GPA20GT3090-A-P6   USD 18   EUR 16
+   1   x-drive   final gear pulley
+   2   y-drive   final gear pulley
+extrusion 2020, 1564mm   Misumi   HFS5-2020-1564   USD 8.91   EUR 7.4
+   1   frame-door   door front bottom
+extrusion 2020, 57mm, 45deg   Misumi   HFS5-2020-57-LAT45   USD 6.9   EUR 6.5
+   1   optics-laser   mirror2
+extrusion 2020, 80mm   Misumi   HFS5-2020-80   USD 3   EUR 2.5
+   2   frame-door   door front
+extrusion 2040, 100mm   Misumi   HFS5-2040-100   USD 4.6   EUR 4
+   3   frame-top   separation column
+extrusion 2040, 1130mm   Misumi   HFS5-2040-1130   USD 12   EUR 15
+   2   frame-bottom   sides
+extrusion 2040, 120mm   Misumi   HFS5-2040-120   USD 5   EUR 4.6
+   2   frame-bottom   columns
+extrusion 2040, 142mm, mount holes, 45deg   Misumi   HFS5-2040-142-Z5-YA66-RTP-LCT45   USD 19.00   EUR 15.0
+   1   x-cart   cart-bar
+extrusion 2040, 1260mm, black   Misumi   HFSB5-2040-1260   USD 21   EUR 17.66
+   4   frame-table   table wide
+extrusion 2040, 148mm, mount holes   Misumi   HFS5-2040-148-Z5-YA20-YB102   USD 12.5   EUR 8.0
+   1   y-cart   cart-bar
+extrusion 2040, 1564mm   Misumi   HFS5-2040-1564   USD 17   EUR 14
+   1   frame-door   door front
+extrusion 2040, 1620mm   Misumi   HFS5-2040-1620   USD 16.5   EUR 17
+   3   frame-bottom   frame front, middle, back
+   1   frame-top   back
+extrusion 2040, 190mm   Misumi   HFS5-2040-190   USD 3   EUR 3
+   3   frame-bottom   1x rear bottom, 2x laser psu mount
+   1   frame-top   1x rear top
+extrusion 2040, 320mm   Misumi   HFS5-2040-320   USD 3.5   EUR 3
+   1   frame-bottom   rear middle
+extrusion 2040, 63mm, mount holes   Misumi   HFS5-2040-63-Z5-YA10   USD 7.66   EUR 5.0
+   1   optics-laser   mirror1
+extrusion 2040, 750mm, black   Misumi   HFSB5-2040-750   USD 12.5   EUR 8
+   2   frame-bottom   bottom cross
+extrusion 2040, 55mm   Misumi   HFS5-2040-55-TPW   USD 6.5   EUR 7.0
+   1   x-cart   cart-bar
+extrusion 2040, 80mm   Misumi   HFS5-2040-80   USD 2.6   EUR 2.9
+   1   frame-door   door front
+extrusion 2040, 69mm, 45deg   Misumi   HFS5-2040-69-LAT45   USD 6.7   EUR 3.8
+   1   optics-laser   mirror1
+extrusion 2040, 830mm   Misumi   HFS5-2040-830   USD 9   EUR 8
+   3   frame-door   door top
+extrusion 2040, 858mm, black   Misumi   HFSB5-2040-858   USD 14.4   EUR 12.08
+   2   frame-table   table short
+extrusion 2040, 860mm   Misumi   HFS5-2040-860   USD 9.3   EUR 8
+   2   frame-bottom   cable carrier base extusion
+   1   extra   extra
+extrusion 2040, 860mm, black   Misumi   HFSB5-2040-860   USD 14.36   EUR 8
+   1   frame-bottom   bottom cross middle
+extrusion 2040, 96mm, mount holes   Misumi   HFS5-2040-96-Z5-YA46-YB76   USD 12.5   EUR 8.0
+   1   y-cart   cart-bar
+extrusion 2080, 70mm   Misumi   HFS5-2080-70-LTP   USD 13.0   EUR 16.0
+   2   y-cart   cart-bar
+extrusion 4040, 100mm   Misumi   HFS5-4040-100   USD 4.6   EUR 4
+   2   frame-top   corner top column
+extrusion 4040, 1130mm   Misumi   HFS5-4040-1130   USD 17.4   EUR 15
+   2   frame-top   frame side top
+extrusion 4040, 120mm   Misumi   HFS5-4040-120   USD 4.6   EUR 4
+   8   frame-bottom   columns
+extrusion 4040, 120mm   Misumi   HFS5-4040-120   USD 8   EUR 8.6
+   2   frame-bottom   table columns
+extrusion 4040, 1418mm   Misumi   HFS5-4040-1418   USD 22.0   EUR 18.0
+   1   y-cart   cart-bar
+extrusion 4040, 1564mm   Misumi   HFS5-4040-1564   USD 24   EUR 20
+   1   frame-door   door rear
+extrusion 4040, 1620mm   Misumi   HFS5-4040-1620   USD 25   EUR 21
+   1   frame-top   frame middle sep
+extrusion 4040, 190mm   Misumi   HFS5-4040-190   USD 4.6   EUR 5
+   1   frame-top   rear side
+extrusion 4040, 360mm   Misumi   HFS5-4040-360   USD 5.6   EUR 7
+   2   frame-bottom   rear corners
+extrusion 4040, 860mm   Misumi   HFS5-4040-860   USD 13.3   EUR 10.92
+   2   frame-gantry   y-rails, left and right
+   1   extra   extra
+extrusion 4080, 100mm   Misumi   HFS5-4080-100   USD 9.4   EUR 9
+   2   frame-top   side
+extrusion 4080, 1620mm   Misumi   HFS5-4080-1620   USD 56   EUR 47
+   2   frame-gantry   gantry frame, rear and front
+extrusion 4080, 940mm   Misumi   HFS5-4080-940   USD 32.5   EUR 27
+   2   frame-gantry   gantry frame, left and right
+air tube, ODxID 6x4mm, 10m   Misumi   PUT6-10-CB   USD 12   EUR 10
+   1   air-assist   entry panel to laser head
+one-touch coupling, 6mm, M5   Misumi   MSELL6-M5   USD 3   EUR 3
+   3   air-assist   1x nozzle coupling, 2x e-valve coupling
+one-touch panel-mount, 6mm   Misumi   MSBUL6   USD 3   EUR 3
+   1   air-assist   entry panel
+nut T-slot, pre, M3   Misumi   HNTE5-3   USD 0.56   EUR 0.50
+   4   frame-door   4x limit sensor magnet
+   4   x-cart   4x limit sensor magnet
+   4   y-cart   4x limit sensor magnet
+   1   air-assist   e-valve mount
+   2   extra   extra
+nut T-slot, pre, M4   Misumi   HNTE5-4   USD 0.46   EUR 0.45
+   3   optics-laser   3x mirrors
+   10   extra   extra
+nut T-slot, pre, M5   Misumi   HNTE5-5   USD 0.46   EUR 0.45
+   12   y-cart   8x roller shaft, 4x belt attachment
+   4   x-cart   2x roller shaft, 2x belt attachment
+   10   extra   extra
+nut T-slot, post, M5, lock   Misumi   HNTPZ5-5   USD 0.69   EUR 0.60
+   48   frame-gantry   16x planar brackets, 32x angle brackets
+   134   frame-bottom   angle brackets
+   72   frame-top   frame connections
+   60   frame-door   frame
+   4   electronics   4x panel mount
+   24   frame-table   angle brackets
+   4   y-cart   4x cart joints
+   2   x-cart   2x cable carrier mount plate
+   20   y-drive   2x idler, 2x limit sensor, 14x shaft mount, 2x cable carrier
+   14   x-drive   1x idler, 4x gear assembly, 5x cable carrier base, 4x limit sensor
+   20   optics-laser   6x mirror1, 2x mirror2, 8x laser mount, 4x laser PSU
+   42   door-panels   26x door top, 16x door front
+   100   frame-panels   100x metal sheets
+   60   extra   extra
+water hose ID 9mm, 10m   Misumi   AHOS9-10   USD 29.6   EUR 21.5
+   1   optics-laser   chiller to laser to chiller
+washer DIN125-like, form A, M3   Misumi   PWF3   USD 0.13   EUR 0.13
+   8   frame-door   8x door sensor magnet
+   8   y-cart   8x limit sensor magnet   
+   8   x-cart   8x limit sensor magnet   
+washer DIN125-like, form A, M4   Misumi   PWF4   USD 0.13   EUR 0.13
+   10   extra    extra
+washer DIN125-like, form A, M5   Misumi   PWF5   USD 0.13   EUR 0.13
+   16   frame-gantry   planar brackets
+   24   frame-top   24x planar bracket
+   24   frame-door   4x door switch, 20gas spring mount
+   22   y-cart   22x roller shaft
+   52   x-cart   2x cable carrier mount plate, 50x roller shaft
+   48   y-drive   12x idler, 36x spanner idler
+   42   x-drive   4x gear assembly, 4x idler, 4x limit sensor, 20x cable carrier base, 10x spanner idler
+   20   extra    extra
+washer DIN9021-like, form G, M4, 50 pack   Misumi   PACK-SPWFN4   USD 9.7   EUR 9.7
+   8/50   y-drive   8x bearing
+   42/50   extra    extra
+washer DIN9021-like, form G, M5, 20 pack   Misumi   PACK-SPWFN5   USD 7.6   EUR 9.6
+   20/20   frame-door   20x gas spring mount
+   2/20   y-drive   2x idler
+   2/20   x-drive   2x idler
+   4/20   optics-laser   4x laser psu mount
+   12/20   extra    16x extra
+washer precision, ID 6mm   Misumi   WASSH12-6-2   USD 2.5   EUR 2
+   4   y-drive   coupling to bearing spacer
+washer precision, OD 19mm   Misumi   FWS-D19-V15.0-T1.0   USD 3.5   EUR 3
+   1   x-drive   shaft bearing spacer
+washer Schnorr-like, lock, M3   Misumi   GTS3   USD 0.12   EUR 0.12
+   20   frame-door   8x limit sensor, 12x limit sensor magnet
+   12   y-cart   12x limit sensor magnet
+   12   x-cart   12x limit sensor magnet
+   8   y-drive   8x limit sensor
+   20   x-drive   4x motor, 12x limit sensor, 4x cable carrier
+   8   electronics   4x power entry module, 4x psu mount
+   1   air-assist   e-valve mount
+   12   extra    extra
+washer Schnorr-like, lock, M5   Misumi   GTS5   USD 0.13   EUR 0.13
+   4   x-cart   mount plates to extrusion end
+   20   extra    extra
+
+
+
+### ColeTech
+laser power supply (Reci DY13, specify 220V or 110V)   ColeTech   100WPowerSupply   USD 600 http://www.cncoletech.com/Laser%20power%20supply.html   EUR 500 http://www.cncoletech.com/Laser%20power%20supply.html
+   1   optics-laser   main laser
+100W CO2 Laser Tube Long Life (Reci W4)   ColeTech   100WLongLifeLaserTube   USD 1200 http://www.cncoletech.com/Laser%20tuber%20long%20life.html   EUR 1000 http://www.cncoletech.com/Laser%20tuber%20long%20life.html
+   1   optics-laser   main laser
+water chiller (specify 220V or 110V)   ColeTech   WaterChiller   USD 400 http://www.cncoletech.com/Laser%20Water%20Chiller.html   EUR 400 http://www.cncoletech.com/Laser%20Water%20Chiller.html
+   1   optics-laser   main laser
+
+
+
+#   item   supplier   order#   currency price [url]   [currency price [url]]   ...
+#   num   subsystem   use
